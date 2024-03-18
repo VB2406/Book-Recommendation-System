@@ -71,7 +71,7 @@ here is a demo,
 
 # Dataset has been used:
 
-* [Dataset link](https://www.kaggle.com/ra4u12/bookrecommendation)
+* [Dataset link](https://www.kaggle.com/code/midouazerty/book-recommendation-system-with-machine-learning)
 
 # Concept used to build the model.pkl file : NearestNeighbors
 
