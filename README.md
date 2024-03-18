@@ -93,7 +93,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Books-Recommender-System-Using-Machine-Learning
+https://github.com/Vikram2406/Book-Recommendation-System
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
